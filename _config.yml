@@ -3,7 +3,7 @@ title: Highlights
 email: youremailaddress@gmail.com
 description: The Jekyll version of the Highlights theme by HTML5 UP.
 baseurl: "/joshbhathal" # the subpath of your site, e.g. /blog
-url: "https://joshywashy888.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
